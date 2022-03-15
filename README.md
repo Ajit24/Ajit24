@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ajitpandey917@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE3He-rRB4/oh90w5pu0pndoh9vrsHlKw/edit](https://www.canva.com/design/DAE3He-rRB4/oh90w5pu0pndoh9vrsHlKw/edit)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1oZjttxbPkZmUpbBCAyj7yAr3W8FGsGsU](https://www.canva.com/design/DAE3He-rRB4/oh90w5pu0pndoh9vrsHlKw/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
