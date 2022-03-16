@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 -👨‍💻 Check my projects and portfolio(https://ajitdev.vercel.app/#/home)
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 
 -  I’m looking to collaborate on OpenSource Projects
 
 - 📫 How to reach me **ajitpandey917@gmail.com**
