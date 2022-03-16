@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 -👨‍💻 Check my projects and portfolio(https://ajitdev.vercel.app/#/home)
 
-- 🔭 I’m currently working on [PAULAS CHOICE](https://sad-curran-67ed3b.netlify.app/)
+- 🌱 I’m currently learning Data Structures and Algorithms.
 
 - 📫 How to reach me **ajitpandey917@gmail.com**
 
