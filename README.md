@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ajitpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ajitpandey" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/ajitpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ajitpandey" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/ajit-kr-pandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit kumar pandey" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ajit_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajit_pandey" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/ajit_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ajit_pandey" height="30" width="40" /></a> -->
 <!-- <a href="https://fb.com/ajit pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajit pandey" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/_ajittpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ajittpandey" height="30" width="40" /></a> -->
 <a href="https://medium.com/@ajitpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ajitpandey" height="30" width="40" /></a>
