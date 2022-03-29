@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajit24" alt="ajit24" /></a> </p>
 
--👨‍💻 Check my projects and portfolio(https://portfolio-ajit.vercel.app/#/)
+-👨‍💻 Check my projects and portfolio(https://ajit.vercel.app/)
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 -  I’m looking to collaborate on OpenSource Projects.
