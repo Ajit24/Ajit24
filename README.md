@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ajit Kumar Pandey</h1>
 <h3 align="center">Motivated, adaptable, and responsible Mechanical Engineer turned into a Full Stack Developer</h3>
+♥️ I enjoy to make people laugh and coding.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit24&label=Profile%20views&color=0e75b6&style=flat" alt="ajit24" /> </p>
 
